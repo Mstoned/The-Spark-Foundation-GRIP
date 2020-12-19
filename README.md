@@ -1,7 +1,3 @@
-[![](https://img.shields.io/badge/Author-Mohitshukla-green.svg)](https://github.com/Mstoned)<br>
-[![Welcome to the this repo ](https://img.shields.io/badge/Hello!-Holaamigo-brightgreen.svg?style=flat&logo=github)](https://github.com/Mstoned)![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)![](https://img.shields.io/badge/Status-Complete-green.svg)[![](https://img.shields.io/github/license/Mstoned/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Mstoned/The-Spark-Foundation-GRIP/blob/main/LICENSE)[![](https://img.shields.io/github/languages/code-size/Mstoned/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Mstoned/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/languages/top/Mstoned/THE-SPARKS-FOUNDATION.svg?style=plastic)](https://github.com/Mstoned/THE-SPARKS-FOUNDATION)[![](https://img.shields.io/github/Follow/Mstoned.svg?style=plastic)](https://github.com/Mstoned)
-[![](https://img.shields.io/badge/Followme-Github-green.svg)](https://github.com/Mstoned)
-<br><br>
 
 # The-Spark-Foundation-GRIP
 Data Science and Analytics Internship Tasks
