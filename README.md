@@ -19,7 +19,7 @@ This repository consist of the tasks given during my internship at The Sparks Fo
     1. Use R or Python or perform this task.
     
 Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)<br>
-To see the implementation check this link - https://github.com/Mstoned/
+To see the implementation check this link - https://github.com/Mstoned/The-Spark-Foundation-GRIP/blob/main/Task1_iris/Eda%20.ipynb
 
                     
 
