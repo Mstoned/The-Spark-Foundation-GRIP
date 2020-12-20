@@ -21,9 +21,9 @@ Iris Data set contains the details of Iris flowers features such as Petal Length
 represent it visually.<br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="Task1_iris/iris.csv">Dataset.csv</a><br><br>
+<a href="https://github.com/Mstoned/The-Spark-Foundation-GRIP/blob/main/Task1_iris/iris.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="Task1_iris/Eda .ipynb"> Prediction using UnSupervised ML</a><br>
+<a href="https://github.com/Mstoned/The-Spark-Foundation-GRIP/blob/main/Task1_iris/Eda%20.ipynb"> Prediction using UnSupervised ML</a><br>
 > Demo:
 <a href="##">Prediction using Unsupervised ML</a><br><br>
 
