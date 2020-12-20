@@ -11,7 +11,7 @@ Exploratory data analysis (EDA) is an approach to analyzing data sets to summari
  
 EDA on IRIS dataset, to classify whether a given flower belong to which type. Here the features of flower is taken into consideration after that bivariate, univariate analysis is done on the dataset to find from which feature we are able to classify the type of class
 
-#Applying EDA on Iris Dataset and Implementing Machine learning Algorithms :
+Applying EDA on Iris Dataset and Implementing Machine learning Algorithms :
 Iris Data set contains the details of Iris flowers features such as Petal Length and Width and Sepal Length and Width, and these are of 3 categories which are virginic, versicolor and setosa. Our objective is to classify these objects to 3 categories based on the input features.
 
 
