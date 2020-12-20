@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/Author-Mohitshukla-green.svg)](https://github.com/Mstoned )<br>
-[![Hello ](https://img.shields.io/badge/Hello!-Welcometo-brightgreen.svg?style=flat&logo=github)](https://github.com/Mstoned )
+[![Hello ](https://img.shields.io/badge/Hello!-Hola-amigo-brightgreen.svg?style=flat&logo=github)](https://github.com/Mstoned )
 [![](https://img.shields.io/badge/Followme-Github-green.svg)](https://github.com/Mstoned )
 
 # Exploratory-Data-Analysis
